@@ -1,0 +1,31 @@
+
+
+.danfo {
+  font-family: "Danfo", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "ELSH" 0;
+}
+p{
+color:maroon ;
+font-size:large;
+font-family:'Segoe UI' ;
+
+}
+
+i{
+color:navy
+
+}    
+
+body{
+background-color:antiquewhite
+
+}
+
+div{
+max-width: 600px;
+margin: auto;
+
+}
